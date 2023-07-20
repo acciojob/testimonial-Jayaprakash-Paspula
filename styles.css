@@ -4,9 +4,14 @@ body{
 }
 .field1{
 	background-color:white;
-   height:50px;
+   height:70px;
+	box-shadow:1px 1px 1px 1px lightgrey;
 }
 .field2{
 	background-color:white;
-   height:50px;
+   height:70px;
+box-shadow:1px 1px 1px 1px lightgrey;
+}
+p{
+	text-align:right;
 }
