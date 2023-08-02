@@ -12,6 +12,10 @@ body{
    height:70px;
 box-shadow:1px 1px 1px 1px lightgrey;
 }
-p{
-	text-align:left;
+.testimonial{
+	padding:20px;
+}
+.author{
+	text-align:right;
+	font-style:italic;
 }
